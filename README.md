@@ -30,3 +30,9 @@ Each **day folder** contains:
 Clone the repo:
 ```bash
 git clone https://github.com/aim-higher1/master-bash.git
+<<<<<<< HEAD
+=======
+
+##  All Credit For :-
+**[aim-higher1](https://github.com/aim-higher1)**
+>>>>>>> de51143 (day2 with files)
