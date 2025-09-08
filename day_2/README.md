@@ -13,5 +13,3 @@
 chmod +x day2_conditionals.sh
 ./day2_conditionals.sh
 
-##  All Credit For :-
-**[aim-higher1](https://github.com/aim-higher1)**
