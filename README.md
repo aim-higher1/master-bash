@@ -1,4 +1,4 @@
-# Mastering Bash for Cloud Engineers
+#  Bash for me as cloud-engineer 
 
 This repository documents my **10-day journey to mastering Bash scripting** with hands-on projects.  
 Each day focuses on essential Bash concepts for Cloud Engineering and DevOps, with practical scripts and examples.  
@@ -30,4 +30,4 @@ Each **day folder** contains:
 Clone the repo:
 ```bash
 git clone https://github.com/aim-higher1/master-bash.git
-cd bash-for-cloud-engineers
+
