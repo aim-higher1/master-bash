@@ -1,0 +1,50 @@
+[Handled] Directory /not_here missing
+Traceback (most recent call last):
+  File "aws", line 19, in <module>
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "PyInstaller/loader/pyimod02_importers.py", line 385, in exec_module
+  File "awscli/clidriver.py", line 22, in <module>
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "PyInstaller/loader/pyimod02_importers.py", line 385, in exec_module
+  File "awscli/botocore/session.py", line 27, in <module>
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "PyInstaller/loader/pyimod02_importers.py", line 385, in exec_module
+  File "awscli/botocore/client.py", line 16, in <module>
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "PyInstaller/loader/pyimod02_importers.py", line 385, in exec_module
+  File "awscli/botocore/waiter.py", line 17, in <module>
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "PyInstaller/loader/pyimod02_importers.py", line 385, in exec_module
+  File "awscli/botocore/docs/__init__.py", line 15, in <module>
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "PyInstaller/loader/pyimod02_importers.py", line 385, in exec_module
+  File "awscli/botocore/docs/service.py", line 13, in <module>
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "PyInstaller/loader/pyimod02_importers.py", line 385, in exec_module
+  File "awscli/botocore/docs/bcdoc/restdoc.py", line 15, in <module>
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "PyInstaller/loader/pyimod02_importers.py", line 385, in exec_module
+  File "awscli/botocore/compat.py", line 19, in <module>
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "PyInstaller/loader/pyimod02_importers.py", line 385, in exec_module
+  File "hashlib.py", line 170, in <module>
+KeyboardInterrupt
+[95852] Failed to execute script 'aws' due to unhandled exception!
